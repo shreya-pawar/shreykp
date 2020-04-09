@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>Profile</title>
+<link rel="stylesheet" type="text/css" href="css/personal.css">
+
+</head>
+<body>
+<header>
+
+
+<div class="main">
+
+
+<ul>
+<li ><a href="index.html">Home</a></li>
+<li class="active"><a href="personal.html">Personal Information</a></li>
+<li><a href="academic.html">Academic Details</a></li>
+<li><a href="projects.html">Projects</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+
+
+
+</div>
+ <h2 style="color:black;font-size: 40px;padding-left:;"><center>PERSONAL INFORMATION</center></h2>
+
+     <pre>
+
+      </pre>
+
+              
+            <table style="margin-left:auto;margin-right:auto;font-size: 150%;margin-top: 30px;">
+                <tr>
+                <td>Name</td>
+                <td>:</td>
+                <td>Sushma N G</td>
+            </tr>
+            
+            <tr>
+            <td>Date Of Birth</td>
+            <td>:</td>
+            <td>08/10/1999</td>
+        </tr>
+        <tr>
+            <td>Nationality</td>
+            <td>:</td>
+            <td>Indian</td>
+        </tr>
+        <tr>
+            <td>Gender</td>
+            <td>:</td>
+            <td>Female</td>
+        </tr>
+        <tr>
+            <td>Languages Known</td>
+            <td>:</td>
+            <td>Kannada,English,Hindi</td>
+        </tr>
+        <tr>
+            <td>Hobbies</td>
+            <td>:</td>
+            <td>Drawing,Reading books,Singing,Listening to music</td>
+        </tr>
+        <tr>
+            <td>Address</td>
+            <td>:</td>
+            <td>D/O N M Gopal</td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td></td>
+            <td>Narsipura,Narve</td>
+        </tr>
+         <tr>
+            <td></td>
+            <td></td>
+            <td>Koppa(T)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>Chikkamagalore(D) 577126</td>
+        </tr>
+            </table>
+          </body>
+
+</div>
+
+</header>
+</body>
+</html>
